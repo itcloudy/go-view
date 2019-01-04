@@ -24,4 +24,4 @@ go get github.com/itcloudy/go-view
 go-view项目目录下执行
 ```
 go-erd -path $(pwd)/examples |dot -Tsvg > $(pwd)/views/db-table-relation.svg
-``
+```
